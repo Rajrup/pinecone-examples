@@ -23,3 +23,5 @@ it_threat_detection/__MACOSX
 # question answering data
 question_answering/tmp
 **/tmp
+learn/recommendation/product-recommender/*.csv
+**/__MACOSX
